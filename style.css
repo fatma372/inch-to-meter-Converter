@@ -1,0 +1,39 @@
+body{
+    font-family: Glory;
+}
+h1{
+    text-align: center;
+}
+
+.main-container{
+    width: 100%;
+    max-width: 480px;
+    height: 323px;
+    background-color:#323232 ;
+    margin: 170px auto;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    color: #FBFBFB;
+
+}
+
+input{
+    padding:10px;
+    margin: 8px 0px 10px 0px;
+}
+button{
+    background-color: #007BFF;
+    border: 0;
+    color: #FBFBFB;
+    font-family: Glory;
+    font-size: 16px;
+    margin: 8px 0px 20px 0px;
+}
+.output-area{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #28A745;
+}
